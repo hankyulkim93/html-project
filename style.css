@@ -4,4 +4,7 @@
 
 .footer {
   color: blue;
+  bottom: 0;
+  position: absolute;
+  
 }
